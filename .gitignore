@@ -1,0 +1,9 @@
+.venv
+venv/
+
+# Telethon session files
+*.session
+
+# PyCharm
+.idea
+
